@@ -7,9 +7,9 @@
 
 
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning : **Machine Learning**
 
-- 📫 How to reach me **aritroo123chowdhury52@gmail.com**
+- 📫 How to reach me : **aritroo123chowdhury52@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
