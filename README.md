@@ -25,4 +25,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aritroo&show_icons=true)  
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aritroo&" alt="aritroo" /></p>
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aritroo)  
