@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning : **Python,** **Machine Learning** 
+- 🌱 I’m currently learning : **Python,** **Flutter,** **Machine Learning** 
 
 - 📫 How to reach me : **aritroo123chowdhury52@gmail.com**
 
