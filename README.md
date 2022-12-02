@@ -30,4 +30,4 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aritroo)  
+  
