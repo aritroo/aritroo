@@ -25,7 +25,9 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aritroo&show_icons=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aritroo)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aritroo) 
+
+[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aritroo&bg_color=0b0a0a&color=4fb3de&line=1298c4&point=32c8af&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
