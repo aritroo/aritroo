@@ -26,7 +26,6 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aritroo) 
 
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
   
