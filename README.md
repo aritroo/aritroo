@@ -21,9 +21,7 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aritroo) 
 
-<h3 align="left">Hacktoberfest Badges</h3>
 
-[![An image of @aritroo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aritroo)](https://holopin.io/@aritroo)
 
 
 
